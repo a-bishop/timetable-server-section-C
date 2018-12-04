@@ -39,8 +39,8 @@
       "EndDate": "04-13-2019",
       "Type": "Lecture",
       "Day": "Th",
-      "StartTime": "08:30PM",
-      "EndTime": "10:20PM",
+      "StartTime": "08:30AM",
+      "EndTime": "10:20AM",
       "Room": "Liz Ashton Campus Centre Bldg Room 122"
   },
   {
@@ -83,8 +83,8 @@
       "EndDate": "04-13-2019",
       "Type": "Lecture",
       "Day": "W",
-      "StartTime": "08:30PM",
-      "EndTime": "09:50PM",
+      "StartTime": "08:30AM",
+      "EndTime": "09:50AM",
       "Room": "Technology Bldg Room 259"
   },
   {
