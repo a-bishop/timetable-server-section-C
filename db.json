@@ -23,7 +23,7 @@
   },
   {
       "ID": "3",
-      "Course": "ICS-227-DX01 (10568) e-Portfolio 3",
+      "Course": "ICS-227-DX02 (110569) e-Portfolio 3",
       "StartDate": "01-07-2019",
       "EndDate": "04-13-2019",
       "Type": null,
@@ -34,62 +34,62 @@
   },
   {
       "ID": "4",
-      "Course": "ICS-224-X01B (10566) Mobile App Development",
-      "StartDate": "01-07-2019",
-      "EndDate": "04-13-2019",
-      "Type": "Laboratory",
-      "Day": "M",
-      "StartTime": "02:30PM",
-      "EndTime": "05:20PM",
-      "Room": "Technology Bldg Room 259"
-  },
-  {
-      "ID": "5",
-      "Course": "ICS-224-X01B (10566) Mobile App Development",
+      "Course": "ICS-224-X01C (110567) Mobile App Development",
       "StartDate": "01-07-2019",
       "EndDate": "04-13-2019",
       "Type": "Lecture",
       "Day": "Th",
-      "StartTime": "08:30AM",
-      "EndTime": "10:20AM",
+      "StartTime": "08:30PM",
+      "EndTime": "10:20PM",
       "Room": "Liz Ashton Campus Centre Bldg Room 122"
   },
   {
+      "ID": "5",
+      "Course": "ICS-224-X01C (110567) Mobile App Development",
+      "StartDate": "01-07-2019",
+      "EndDate": "04-13-2019",
+      "Type": "Laboratory",
+      "Day": "F",
+      "StartTime": "01:30PM",
+      "EndTime": "04:20PM",
+      "Room": "Technology Bldg Room 259"
+  },
+  {
       "ID": "6",
-      "Course": "ICS-221-X02 (10563) Web Services",
+      "Course": "ICS-221-X03 (110564) Web Services",
       "StartDate": "01-07-2019",
       "EndDate": "04-13-2019",
       "Type": "Lecture",
-      "Day": "Tu",
-      "StartTime": "10:00AM",
-      "EndTime": "11:20AM",
+      "Day": "M",
+      "StartTime": "12:30PM",
+      "EndTime": "01:50PM",
       "Room": "Technology Bldg Room 259"
   },
   {
       "ID": "7",
-      "Course": "ICS-221-X02 (10563) Web Services",
+      "Course": "ICS-221-X03 (110564) Web Services",
       "StartDate": "01-07-2019",
       "EndDate": "04-13-2019",
       "Type": "Laboratory",
-      "Day": "W",
-      "StartTime": "10:30AM",
-      "EndTime": "12:20PM",
+      "Day": "Tu",
+      "StartTime": "11:30AM",
+      "EndTime": "01:20PM",
       "Room": "Technology Bldg Room 259"
   },
   {
       "ID": "8",
-      "Course": "ICS-221-X02 (10563) Web Services",
+      "Course": "ICS-221-X03 (110564) Web Services",
       "StartDate": "01-07-2019",
       "EndDate": "04-13-2019",
       "Type": "Lecture",
-      "Day": "Th",
-      "StartTime": "01:00PM",
-      "EndTime": "02:20PM",
+      "Day": "W",
+      "StartTime": "08:30PM",
+      "EndTime": "09:50PM",
       "Room": "Technology Bldg Room 259"
   },
   {
       "ID": "9",
-      "Course": "SECTION C --- ICS-214-X01B (10560) Programming From C to C++",
+      "Course": "ICS-214-X01C (110561) Programming From C to C++",
       "StartDate": "01-07-2019",
       "EndDate": "04-13-2019",
       "Type": "Lecture",
@@ -100,7 +100,18 @@
   },
   {
       "ID": "10",
-      "Course": "ICS-214-X01B (10560) Programming From C to C++",
+      "Course": "ICS-214-X01C (110561) Programming From C to C++",
+      "StartDate": "01-07-2019",
+      "EndDate": "04-13-2019",
+      "Type": "Laboratory",
+      "Day": "Tu",
+      "StartTime": "01:30PM",
+      "EndTime": "03:20PM",
+      "Room": "Technology Bldg Room 148"
+  },
+  {
+      "ID": "11",
+      "Course": "ICS-214-X01C (110561) Programming From C to C++",
       "StartDate": "01-07-2019",
       "EndDate": "04-13-2019",
       "Type": "Lecture",
@@ -110,19 +121,8 @@
       "Room": "Technology Bldg Room 173"
   },
   {
-      "ID": "11",
-      "Course": "ICS-214-X01B (10560) Programming From C to C++",
-      "StartDate": "01-07-2019",
-      "EndDate": "04-13-2019",
-      "Type": "Laboratory",
-      "Day": "F",
-      "StartTime": "12:30PM",
-      "EndTime": "02:20PM",
-      "Room": "Technology Bldg Room 150"
-  },
-  {
       "ID": "12",
-      "Course": "ICS-200-X01B (10557) Special Topics in Computing",
+      "Course": "ICS-200-X01C (110558) Special Topics in Computing",
       "StartDate": "01-07-2019",
       "EndDate": "04-13-2019",
       "Type": "Lecture",
@@ -133,13 +133,13 @@
   },
   {
       "ID": "13",
-      "Course": "ICS-200-X01B (10557) Special Topics in Computing",
+      "Course": "ICS-200-X01C (110558) Special Topics in Computing",
       "StartDate": "01-07-2019",
       "EndDate": "04-13-2019",
       "Type": "Laboratory",
-      "Day": "Tu",
-      "StartTime": "01:30PM",
-      "EndTime": "04:20PM",
+      "Day": "Th",
+      "StartTime": "02:30PM",
+      "EndTime": "05:20PM",
       "Room": "Technology Bldg Room 259"
   },
   {
@@ -151,7 +151,7 @@
       "Day": "Th",
       "StartTime": "10:30AM",
       "EndTime": "11:50AM",
-      "Room": "Technology Bldg Room 173"
+      "Room": "Technology Bldg Room 173 / Portable A Room 101"
   },
   {
       "ID": "15",
@@ -162,6 +162,6 @@
       "Day": "F",
       "StartTime": "08:30AM",
       "EndTime": "09:50AM",
-      "Room": "Centre Business & Access Bldg Room 287"
+      "Room": "Centre Business & Access Bldg Room 287 / Technology Bldg Room 173 "
   }
   ]}
