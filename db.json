@@ -1,29 +1,29 @@
 { "Courses": [
   {
       "ID": "1",
-      "Course": "ICS-298-BX01 (10570) Capstone Project: Phase 1",
+      "Course": "ICS 298 Capstone Project: Phase 1",
       "StartDate": "01-07-2019",
       "EndDate": "04-13-2019",
-      "Type": "Lecture",
+      "Type": "Lecture (reserved block for presentations, only some weeks)",
       "Day": "Tu",
-      "StartTime": "04:30PM",
-      "EndTime": "05:20PM",
-      "Room": "Technology Bldg Room 175"
+      "StartTime": "08:30AM",
+      "EndTime": "10:20AM",
+      "Room": "CC 124"
   },
   {
       "ID": "2",
-      "Course": "ICS-298-BX01 (10570) Capstone Project: Phase 1",
+      "Course": "ICS 298 Capstone Project: Phase 1",
       "StartDate": "01-07-2019",
       "EndDate": "04-13-2019",
       "Type": "Lecture",
       "Day": "W",
-      "StartTime": "12:30PM",
-      "EndTime": "02:20PM",
-      "Room": "Liz Ashton Campus Centre Bldg Room 124"
+      "StartTime": "11:00AM",
+      "EndTime": "11:50AM",
+      "Room": "CC 124"
   },
   {
       "ID": "3",
-      "Course": "ICS-227-DX02 (110569) e-Portfolio 3",
+      "Course": "ICS 227 e-Portfolio 3",
       "StartDate": "01-07-2019",
       "EndDate": "04-13-2019",
       "Type": null,
@@ -34,134 +34,112 @@
   },
   {
       "ID": "4",
-      "Course": "ICS-224-X01C (110567) Mobile App Development",
+      "Course": "ICS 224 Mobile App Development",
       "StartDate": "01-07-2019",
       "EndDate": "04-13-2019",
       "Type": "Lecture",
       "Day": "Th",
       "StartTime": "08:30AM",
       "EndTime": "10:20AM",
-      "Room": "Liz Ashton Campus Centre Bldg Room 122"
+      "Room": "CC 122"
   },
   {
       "ID": "5",
-      "Course": "ICS-224-X01C (110567) Mobile App Development",
+      "Course": "ICS 224 Mobile App Development",
       "StartDate": "01-07-2019",
       "EndDate": "04-13-2019",
       "Type": "Laboratory",
       "Day": "F",
-      "StartTime": "01:30PM",
-      "EndTime": "04:20PM",
-      "Room": "Technology Bldg Room 259"
+      "StartTime": "10:00AM",
+      "EndTime": "12:50PM",
+      "Room": "Tec 259"
   },
   {
       "ID": "6",
-      "Course": "ICS-221-X03 (110564) Web Services",
-      "StartDate": "01-07-2019",
-      "EndDate": "04-13-2019",
-      "Type": "Lecture",
-      "Day": "M",
-      "StartTime": "12:30PM",
-      "EndTime": "01:50PM",
-      "Room": "Technology Bldg Room 259"
-  },
-  {
-      "ID": "7",
-      "Course": "ICS-221-X03 (110564) Web Services",
-      "StartDate": "01-07-2019",
-      "EndDate": "04-13-2019",
-      "Type": "Laboratory",
-      "Day": "Tu",
-      "StartTime": "11:30AM",
-      "EndTime": "01:20PM",
-      "Room": "Technology Bldg Room 259"
-  },
-  {
-      "ID": "8",
-      "Course": "ICS-221-X03 (110564) Web Services",
+      "Course": "ICS 221 Web Services",
       "StartDate": "01-07-2019",
       "EndDate": "04-13-2019",
       "Type": "Lecture",
       "Day": "W",
-      "StartTime": "08:30AM",
+      "StartTime": "09:00AM",
       "EndTime": "09:50AM",
-      "Room": "Technology Bldg Room 259"
+      "Room": "Tec 259"
   },
   {
-      "ID": "9",
-      "Course": "ICS-214-X01C (110561) Programming From C to C++",
-      "StartDate": "01-07-2019",
-      "EndDate": "04-13-2019",
-      "Type": "Lecture",
-      "Day": "Tu",
-      "StartTime": "08:30AM",
-      "EndTime": "09:50AM",
-      "Room": "Technology Bldg Room 181"
-  },
-  {
-      "ID": "10",
-      "Course": "ICS-214-X01C (110561) Programming From C to C++",
+      "ID": "7",
+      "Course": "ICS 221 Web Services",
       "StartDate": "01-07-2019",
       "EndDate": "04-13-2019",
       "Type": "Laboratory",
-      "Day": "Tu",
-      "StartTime": "01:30PM",
+      "Day": "M",
+      "StartTime": "12:30PM",
       "EndTime": "03:20PM",
-      "Room": "Technology Bldg Room 148"
+      "Room": "Tec 259"
   },
   {
-      "ID": "11",
-      "Course": "ICS-214-X01C (110561) Programming From C to C++",
-      "StartDate": "01-07-2019",
-      "EndDate": "04-13-2019",
-      "Type": "Lecture",
-      "Day": "F",
-      "StartTime": "10:00AM",
-      "EndTime": "11:20AM",
-      "Room": "Technology Bldg Room 173"
-  },
-  {
-      "ID": "12",
-      "Course": "ICS-200-X01C (110558) Special Topics in Computing",
+      "ID": "8",
+      "Course": "ICS 214 Programming From C to C++",
       "StartDate": "01-07-2019",
       "EndDate": "04-13-2019",
       "Type": "Lecture",
       "Day": "M",
-      "StartTime": "10:30AM",
-      "EndTime": "12:20PM",
-      "Room": "Technology Bldg Room 175"
+      "StartTime": "10:00AM",
+      "EndTime": "11:20AM",
+      "Room": "Tec 175"
   },
   {
-      "ID": "13",
-      "Course": "ICS-200-X01C (110558) Special Topics in Computing",
+      "ID": "9",
+      "Course": "ICS 214 Programming From C to C++",
       "StartDate": "01-07-2019",
       "EndDate": "04-13-2019",
       "Type": "Laboratory",
-      "Day": "Th",
+      "Day": "W",
       "StartTime": "02:30PM",
-      "EndTime": "05:20PM",
-      "Room": "Technology Bldg Room 259"
+      "EndTime": "04:20PM",
+      "Room": "Tec 145"
   },
   {
-      "ID": "14",
-      "Course": "ENGL-273-X04 (10396) Technical Communication",
+      "ID": "10",
+      "Course": "ICS 214 Programming From C to C++",
+      "StartDate": "01-07-2019",
+      "EndDate": "04-13-2019",
+      "Type": "Lecture",
+      "Day": "W",
+      "StartTime": "12:00PM",
+      "EndTime": "01:30PM",
+      "Room": "CC 124"
+  },
+  {
+      "ID": "11",
+      "Course": "ICS 200 Special Topics in Computing",
+      "StartDate": "01-07-2019",
+      "EndDate": "04-13-2019",
+      "Type": "Laboratory",
+      "Day": "F",
+      "StartTime": "01:00PM",
+      "EndTime": "04:50",
+      "Room": "Tec 259"
+  },
+  {
+      "ID": "12",
+      "Course": "ENGL 273 Technical Communication",
       "StartDate": "01-07-2019",
       "EndDate": "04-13-2019",
       "Type": "Lecture",
       "Day": "Th",
       "StartTime": "10:30AM",
       "EndTime": "11:50AM",
-      "Room": "Technology Bldg Room 173 / Portable A Room 101"
+      "Room": "Tec 173"
   },
   {
-      "ID": "15",
-      "Course": "ENGL-273-X04 (10396) Technical Communication",
+      "ID": "13",
+      "Course": "ENGL 273 Technical Communication",
       "StartDate": "01-07-2019",
       "EndDate": "04-13-2019",
       "Type": "Seminar",
       "Day": "F",
       "StartTime": "08:30AM",
       "EndTime": "09:50AM",
-      "Room": "Centre Business & Access Bldg Room 287 / Technology Bldg Room 173 "
+      "Room": "CBA 287"
   }
   ]}
