@@ -106,7 +106,7 @@
       "Type": "Lecture",
       "Day": "W",
       "StartTime": "12:00PM",
-      "EndTime": "01:30PM",
+      "EndTime": "01:20PM",
       "Room": "CC 124"
   },
   {
@@ -117,7 +117,7 @@
       "Type": "Laboratory",
       "Day": "F",
       "StartTime": "01:00PM",
-      "EndTime": "04:50",
+      "EndTime": "04:50PM",
       "Room": "Tec 259"
   },
   {
